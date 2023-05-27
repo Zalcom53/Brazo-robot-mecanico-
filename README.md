@@ -7,3 +7,9 @@ Como plus el brazo es capaz de cerrar las pinzas con las que esta equipado al ac
 
 ![descarga](https://github.com/Zalcom53/Brazo-robot-mecanico-/assets/16214225/5133a970-7121-465b-adb1-aa52320ac54a)
 ![descarga](https://github.com/Zalcom53/Brazo-robot-mecanico-/assets/16214225/dd017dfa-3f94-4825-a514-7fe6f0724a86)
+
+
+UNIVERSIDAD DE SONORA - LICIENCIATURA EN CIENCIAS DE LA COMPUTACION
+
+
+MAYO DEL 2023 - CURSO DE PRINCIPIOS DE ROBOTICA
